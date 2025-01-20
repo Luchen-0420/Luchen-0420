@@ -1,5 +1,9 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
+![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luchen-0420&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Luchen-0420&theme=dracula)
+
 
 <!--
 **Luchen-0420/Luchen-0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
