@@ -1,15 +1,7 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luchen-0420&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Luchen-0420&theme=dracula)
-
 ### Hi there 👋,I'm Luchen.
 - 🌱 I’m currently learning Everything I like, about Psychology, software development, smart agriculture. 
 - 📫 How to reach me: wechat:HelloWorld_testing
-
-![](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+- 😄 I am self-learning about Rust, machine learning, and big language models.
 
 ### My Skill Set
 
