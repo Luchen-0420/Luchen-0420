@@ -1,6 +1,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luchen-0420&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Luchen-0420&theme=dracula)
 
@@ -14,5 +13,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Vue-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
