@@ -1,21 +1,18 @@
-## Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luchen-0420&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Luchen-0420&theme=dracula)
 
+### Hi there 👋,I'm Luchen.
+- 🌱 I’m currently learning Everything I like, about Psychology, software development, smart agriculture. 
+- 📫 How to reach me: wechat:HelloWorld_testing
 
-<!--
-**Luchen-0420/Luchen-0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=Luchen-0420&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+You are my ![Visitor Count](https://profile-counter.glitch.me/Luchen-0420/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skill Set
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
